@@ -1,3 +1,26 @@
 body{
-    background-color: rgb(194, 161, 231);
+    background-color: rgb(217, 196, 240);
+}
+.centertitle{ 
+    text-align: center;
+}
+.centerimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+  }
+ol{
+    list-style-type: lower-roman;
+}
+a:hover{ 
+    color: darkgoldenrod;
+    text-decoration: underline;
+}
+.textwhite{
+    color: antiquewhite;
+}
+.centervideo{
+    align-content: center;
+    padding-top: 30px;
 }
