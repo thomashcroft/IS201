@@ -16,8 +16,57 @@ ul {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
   }
-  
   li a:hover {
     background-color: #111;
   }
+  .copyrightfoot{
+      text-align: center;
+      color: #111;
+      font-family:'Times New Roman', Times, serif;
+      font-weight: bold;
+  }
+  .size{
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 800px;
+      align-content: center;
+  }
+  figcaption{
+      text-align: center;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-weight: bold;
+      padding-top: 5px;
+      padding-bottom: 20px;
+      color: #333;
+      text-decoration: underline;
+  }
+  h1{
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      font-weight: bold;
+      text-align: center;
+      font-size:xx-large;
+  }
+  body{
+      background-color:rgb(213, 220, 230)
+  }
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+.navbar{
+    text-align: right;
+}
+.backtotop{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

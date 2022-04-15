@@ -13,6 +13,9 @@ body{
 ol{
     list-style-type: lower-roman;
 }
+.byulink{
+    color: aliceblue;
+}
 a:hover{ 
     color: darkgoldenrod;
     text-decoration: underline;
@@ -23,4 +26,11 @@ a:hover{
 .centervideo{
     align-content: center;
     padding-top: 30px;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.top{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
