@@ -12,6 +12,9 @@ body{
   }
 ol{
     list-style-type: lower-roman;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(12, 12, 53);
 }
 .byulink{
     color: aliceblue;
@@ -29,6 +32,7 @@ a:hover{
 }
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(241, 234, 206);
 }
 .top{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
